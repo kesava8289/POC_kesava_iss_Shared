@@ -2,3 +2,8 @@ Apple
 Banana
 orange
 kiwi
+Apple
+Banana
+orange
+kiwi
+
